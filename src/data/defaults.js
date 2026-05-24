@@ -22,5 +22,13 @@ export const defaultData = {
       url: 'https://wa.me/56994407228',
       visible: true,
     },
+    {
+      id: '3',
+      platform: 'web',
+      label: 'Jian Coach',
+      sub: 'Mi página web',
+      url: 'https://jiancoach.github.io/jian-page/',
+      visible: true,
+    },
   ],
 }
